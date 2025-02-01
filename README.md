@@ -48,12 +48,8 @@ Here are some projects I've worked on:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=libinfaby&show_icons=true&theme=radical)
-
-![Test](https://github-readme-stats-eight-theta.vercel.app/api?username=libinfaby&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![Test Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=libinfaby&layout=compact&langs_count=8&theme=algolia)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=libinfaby&layout=compact&theme=radical)
+![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=libinfaby&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=libinfaby&layout=compact&langs_count=8&theme=algolia)
 
 ---
 
