@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Libin</h1>
 
-<h3 align="center">
+<h4 align="center">
 💻 Focused on building reliable backend and database-driven systems | 🌍 Open source advocate
-</h3>
+</h4>
 
 ##
+<br>
+
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 ![VB](https://img.shields.io/badge/-VB-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -19,9 +21,9 @@
 
 * ⌨️ Topics I enjoy discussing include system design, healthcare systems and protocol integrations, background services, and automation.
 
-## Outside tech
+##
 
-🎵 Music | 🌌 astronomy | 💭 philosophy | 🌀 curiosity about how complex systems, technical or natural, actually work
+* Beyond software, I love playing music 🎸, learning about the universe 🌌, reflecting on philosophical ideas 💭, and understanding how complex systems — in nature or engineering — truly function 🌀.
 
 ---
 
