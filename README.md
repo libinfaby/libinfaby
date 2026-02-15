@@ -21,7 +21,7 @@
 
 ## Outside tech
 
-Music | astronomy | philosophy | curiosity about how complex systems, technical or natural, actually work
+🎵 Music | 🌌 astronomy | 💭 philosophy | 🌀 curiosity about how complex systems, technical or natural, actually work
 
 ---
 
