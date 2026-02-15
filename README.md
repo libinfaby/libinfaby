@@ -17,9 +17,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ##
 
-* 🔭 Currently working on healthcare software, including **Laboratory Information System(LIS)** and **Radiology Information Syatem(RIS)** integrations, along with C# automation tools and Windows services. 
+* 🔭 Currently working on healthcare solutions,including **Laboratory Information System(LIS)** and **Radiology Information Syatem(RIS)**, along with C# automation tools and Windows services. 
 
-* ⌨️ Topics I enjoy discussing include system design, healthcare systems and protocol integrations, background services, and automation.
+* ⌨️ Topics I enjoy discussing include system design, healthcare systems, communication protocols, background services, and automation.
 
 ##
 
