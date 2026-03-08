@@ -1,29 +1,21 @@
-<h1 align="center">Hi 👋, I'm Libin</h1>
+Backend and database-driven systems developer. Open source advocate.
 
-<h4 align="center">
-💻 Focused on building reliable backend and database-driven systems | 🌍 Open source advocate
-</h4>
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)
+![VB](https://img.shields.io/badge/-VB-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)
 
-##
-<br>
+---
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-![VB](https://img.shields.io/badge/-VB-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-##
+Currently building healthcare software, primarily **Electronic Medical Records**, **Laboratory/Radiology Information Systems** and **Accounting & Finance Systems**.
 
-* 🔭 Currently working on healthcare solutions,including **Laboratory Information System(LIS)** and **Radiology Information Syatem(RIS)**, along with C# automation tools and Windows services. 
-
-* ⌨️ Topics I enjoy discussing include system design, healthcare systems, communication protocols, background services, and automation.
-
-##
-
-* Beyond software, I love playing music 🎸, learning about the universe 🌌, reflecting on philosophical ideas 💭, and understanding how complex systems — in nature or engineering — truly function 🌀.
+When I'm not coding, I enjoy playing music, exploring cosmology, reflecting on philosophy, and understanding how complex systems work.
 
 ---
 
@@ -31,4 +23,6 @@
 
 ##
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/libinfaby) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:libinfc0@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)](https://libinfaby.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)](https://linkedin.com/in/libinfaby)
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)](mailto:libinfc0@gmail.com)
