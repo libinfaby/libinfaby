@@ -23,6 +23,6 @@ When I'm not coding, I enjoy playing music, exploring cosmology, reflecting on p
 
 ##
 
-[![Website](https://img.shields.io/badge/-Website-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)](https://libinfaby.github.io)
+[![Website](https://img.shields.io/badge/-Website-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)](https://libinfaby.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)](https://linkedin.com/in/libinfaby)
 [![Email](https://img.shields.io/badge/-Email-333333?style=flat-square&color=333333&labelColor=333333&logoColor=eeeeee)](mailto:libinfc0@gmail.com)
